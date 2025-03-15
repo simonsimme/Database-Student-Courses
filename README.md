@@ -48,6 +48,7 @@ This project provided hands-on experience in:
 ![Skärmbild 2025-03-15 163533](https://github.com/user-attachments/assets/83ebf704-6893-4979-b208-9106f371fbf6)
 ![Skärmbild 2025-03-15 163721](https://github.com/user-attachments/assets/baa4cfa3-6570-4817-b0ab-3e68aae3b68e)
 ![Skärmbild 2025-03-15 163638](https://github.com/user-attachments/assets/51740812-899a-4e23-b001-95422e24b928)
+![ER](https://github.com/user-attachments/assets/33a4f862-38f6-4435-a532-f7273d70debf)
 
 
 ## 🎓 Conclusion
