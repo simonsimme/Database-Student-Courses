@@ -45,8 +45,10 @@ This project provided hands-on experience in:
 5. **Java Application** – Developed a user-friendly interface for database interaction.
 
 ## 📸 Screenshots
-![Screenshot 1](#)  
-![Screenshot 2](#)  
+![Skärmbild 2025-03-15 163533](https://github.com/user-attachments/assets/83ebf704-6893-4979-b208-9106f371fbf6)
+![Skärmbild 2025-03-15 163721](https://github.com/user-attachments/assets/baa4cfa3-6570-4817-b0ab-3e68aae3b68e)
+![Skärmbild 2025-03-15 163638](https://github.com/user-attachments/assets/51740812-899a-4e23-b001-95422e24b928)
+
 
 ## 🎓 Conclusion
 This project showcases a **comprehensive understanding of database design and development**, from initial modeling to application implementation. It demonstrates the ability to manage **complex data relationships** while ensuring **data integrity** using advanced SQL features and Java programming.
